@@ -4,7 +4,7 @@ def create_connection():
     connection = mysql.connector.connect(
           host='172.29.66.162',
           user='Reza',
-          password='Renomodus2007!',
+          password='*******',
           database='Filmverwaltungsystem'
      )
     return connection
