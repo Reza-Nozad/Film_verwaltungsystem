@@ -4,7 +4,7 @@ export SQLIP="172.29.66.162"
 
 export SQL_USERNAME="Reza"
 
-export SQL_PASSWORD="****"
+export SQL_PASSWORD="Renomodus2007!"
 
 export SQL_DATABASE="Filmverwaltungsystem"
 
