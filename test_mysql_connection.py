@@ -11,17 +11,12 @@ SQLDatabase = str(os.environ['SQL_DATABASE'])
 
 def create_connection():
     connection = mysql.connector.connect(
-<<<<<<< HEAD
-          host='172.29.66.162',
-          user='Reza',
-          password='*******',
-          database='Filmverwaltungsystem'
-=======
+
           host=SQLIP,
           user=SQLUsername,
           password=SQLPassword,
           database=SQLDatabase
->>>>>>> eb922e5 (Filmverwaltungsystem)
+
      )
     return connection
 
