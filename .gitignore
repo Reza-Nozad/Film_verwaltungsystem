@@ -1,1 +1,11 @@
-env_variables.sh
+# Verzeichnisse
+
+venv/
+
+__pycache__/
+
+# Python
+
+# test_mysql_connection.py
+# env_variables.sh
+
